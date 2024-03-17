@@ -1,4 +1,4 @@
-import { DataMappingCommand } from "../../lib/command/base";
+import { DataMappingCommand } from "@lib/command/base";
 
 export default class Entry {
   private cmd: DataMappingCommand;
