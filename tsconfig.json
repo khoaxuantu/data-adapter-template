@@ -14,7 +14,8 @@
       "baseUrl": ".",
       "paths": {
          "@/*": ["src/*"],
-         "@proj1/*": ["src/migration_project_1/*"]
+         "@proj1/*": ["src/migration_project_1/*"],
+         "@lib/*": ["src/lib/*"]
       }
    }
 }
